@@ -2,14 +2,18 @@
 
 ## Table of Contents
 
-| No. | Title                                                 | ------------- |
-| :-: | ----------------------------------------------------- | ------------- |
-|  1  | [Intro to IPv4 addressing](#intro-to-ipv4-addressing) |
+| No. | Title                                                 |
+| :-: | ----------------------------------------------------- |
+|  1  | [Intro to IPv4 Addressing](#intro-to-ipv4-addressing) |
 |  2  | [NAT Explained](#nat-explained)                       |
+|  3  | [Default Gateway](#default-gateway)                   |
+|  4  | [Subnet Mask](#subnet-mask)                           |
+
+---
 
 ## Notes
 
-### Intro to IPv4 addressing
+### Intro to IPv4 Addressing
 
 - Binary and the IP address [Lesson 1](https://youtu.be/ddM9AcreVqY)
 
