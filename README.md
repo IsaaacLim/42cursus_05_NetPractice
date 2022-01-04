@@ -21,9 +21,10 @@
 
 - IPv4 class systems. No idea how the **Octet range** is determined [Lesson 3](https://youtu.be/4xlzlgYGqW8)
 
-### NAT Explained [source](https://youtu.be/FTUV0t6JaDA)
+### NAT Explained
 
 - A router translates each private IP address to a unique public address
+- [source](https://youtu.be/FTUV0t6JaDA)
 
 ### Default Gateway
 
