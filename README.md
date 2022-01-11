@@ -8,6 +8,7 @@
 |  2  | [NAT Explained](#nat-explained)                       |
 |  3  | [Default Gateway](#default-gateway)                   |
 |  4  | [Subnet Mask](#subnet-mask)                           |
+|  5  | [Other Resouces](#other-resources)                    |
 
 ---
 
@@ -54,3 +55,7 @@
 - **CIDR**-Classless Inter-Domain Routing (slash notation): `/24` = `255.255.255.0` = `11111111.11111111.11111111.00000000`
 - More on how Subnet Mask is used to create _n_ number of network and _n_ number of host
 - [source](https://youtu.be/s_Ntt6eTn94)
+
+### Other Resources
+
+- [Cisco - IP Addressing and Subnetting](https://www.cisco.com/c/en/us/support/docs/ip/routing-information-protocol-rip/13788-3.html#anc9)
