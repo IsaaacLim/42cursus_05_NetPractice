@@ -9,7 +9,7 @@
 |  3  | [Default Gateway](#default-gateway)                   |
 |  4  | [Subnet Mask](#subnet-mask)                           |
 |  5  | [Other Resouces](#other-resources)                    |
-
+|  6  | [**Exercise Instructions**](#exercise-instructions)     |
 ---
 
 ## Notes
@@ -59,3 +59,10 @@
 ### Other Resources
 
 - [Cisco - IP Addressing and Subnetting](https://www.cisco.com/c/en/us/support/docs/ip/routing-information-protocol-rip/13788-3.html#anc9)
+
+---
+
+## Exercise Instructions
+
+1. Run the html files located in the `net_practice` folder.
+2. Enter 42intra username to begin or leave empty for *defense* exam.
